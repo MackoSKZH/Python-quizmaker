@@ -1,0 +1,20 @@
+{
+    "question": ["Ktory prvok je zakladnou zlozkou diamantu?",
+    "Ako sa nazyva chemicky prvok so symbolom 'Na'?",
+    "Aky typ vazby je pritomny v molekule vody?",
+    "Aky je oxidacny stav kyslika vo vztahu H2O?",
+    "Aky je najjednoduchsi uhlovodik?",
+    "Ktora zlucenina je znama ako rozpustadlo v prirodnych vlaknach?"
+    ],
+    
+    "options": [
+        ["uhlik", "kyslik", "vodik", "dusik"],
+        ["neon", "sodik", "magnezium", "fosfor"],
+        ["ionicka", "kovova", "kovalentna", "vsetky z uvedenych"],
+        ["0", "1", "-1", "2"],
+        ["metan", "eten", "propen", "buten"],
+        ["aceton", "chloroform", "terpentin", "glycerin"]
+    ],
+    
+    "answer": [1, 2, 3, 3, 1, 2]
+}
